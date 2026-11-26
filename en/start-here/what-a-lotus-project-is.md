@@ -1,5 +1,5 @@
 ---
-title: What a Document360 Lotus project is2
+title: What a Document360 Lotus project is2w
 internalDescription: The product-type distinction, what Git being the source of truth means in practice.
 tags:
   - getting-started
@@ -8,7 +8,7 @@ tags:
 labels:
   - sample-content
 seo:
-  title: What a Document360 Lotus project is2
+  title: What a Document360 Lotus project is2w
   description: Git as the source of truth, and what that changes for a writer.
 display:
   toc: true
@@ -17,7 +17,7 @@ display:
 
 Document360 has two product types. This project is the Git-backed one.
 
-| | <span data-variable="productType">{{variable.productType}}</span> | <span data-variable="siblingType">{{variable.siblingType}}</span> |
+|  | <span data-variable="productType">{{variable.productType}}</span> | <span data-variable="siblingType">{{variable.siblingType}}</span> |
 | :--- | :--- | :--- |
 | Source of truth | A Git repository | Document360 |
 | An article is | A Markdown file | A record in Document360 |
