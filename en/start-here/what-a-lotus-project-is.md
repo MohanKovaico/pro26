@@ -1,5 +1,5 @@
 ---
-title: What a Document360 Lotus project is
+title: What a Document360 Lotus project is2
 internalDescription: The product-type distinction, what Git being the source of truth means in practice.
 tags:
   - getting-started
@@ -8,7 +8,7 @@ tags:
 labels:
   - sample-content
 seo:
-  title: What a Document360 Lotus project is
+  title: What a Document360 Lotus project is2
   description: Git as the source of truth, and what that changes for a writer.
 display:
   toc: true
