@@ -23,7 +23,7 @@ Document360 has two product types. This project is the Git-backed one.
 | An article is | A Markdown file | A record in Document360 |
 | Order of pages | A manifest file in the repository | Arranged in the portal |
 | Reuse objects | Files under `.document360/` | Records in the portal |
-| Editing | <span data-variable="editorName">{{variable.editorName}}</span>, or any editor you like | <span data-variable="editorName">{{variable.editorName}}</span> |
+| Editingaa | <span data-variable="editorName">{{variable.editorName}}</span>, or any editor you like | <span data-variable="editorName">{{variable.editorName}}</span> |
 
 Both are supported, and neither is a migration path to the other.
 
