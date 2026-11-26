@@ -19,7 +19,7 @@ Document360 has two product types. This project is the Git-backed one.
 
 |  | <span data-variable="productType">{{variable.productType}}</span> | <span data-variable="siblingType">{{variable.siblingType}}</span> |
 | :--- | :--- | :--- |
-| Source of truth | A Git repository | Document360 |
+| Source of truth | A Git repositoryss | Document360 |
 | An article is | A Markdown file | A record in Document360 |
 | Order of pages | A manifest file in the repository | Arranged in the portal |
 | Reuse objects | Files under `.document360/` | Records in the portal |
