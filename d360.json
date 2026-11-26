@@ -1,0 +1,96 @@
+{
+  "serializerVersion": 1,
+  "languages": [
+    { "code": "en", "default": true }
+  ],
+  "nodes": [
+    {
+      "paths": [
+        { "langs": ["en"], "path": "start-here/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "start-here/what-a-lotus-project-is.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "start-here/a-tour-of-the-repository.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "start-here/your-first-change.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "writing/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "writing/the-editor.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "writing/blocks.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "writing/reuse.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "review-and-publishing/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "review-and-publishing/branches-and-review.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "review-and-publishing/publishing.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "review-and-publishing/when-two-people-edit.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "your-readers/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "your-readers/the-knowledge-base-site.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "your-readers/search.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "your-readers/feedback.md" }
+          ]
+        }
+      ]
+    }
+  ]
+}
